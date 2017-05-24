@@ -1,7 +1,7 @@
 # 2016-CFB-ColleyRanking
 A basic Colley Ranking for FBS football teams at the end of the 2016 season
 
-### Top 25
+### Top 25 Teams W/ Rating
 
    "1.0868"     "Alabama"                 
     "1.0844"     "Clemson"                 
